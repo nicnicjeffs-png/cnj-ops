@@ -19,6 +19,7 @@ Last reviewed: 2026-11-05. Update this file when any fact below changes.
 - Actuals are recorded at cost, no markup.
 - Direct labour cost = $30/hr (wage).
 - Own-crew labour is charged to jobs at ~$90/hr. Subbed finish work (trim, flooring, tile, cabinetry) can run ~$50/hr, so finish work is often subbed out.
+- From Nov 2026, bills are entered in QBO with a JobTread cost code on every line, starting with the 10 McNamee and 42 Cedar jobs.
 
 ## KPI
 - Job profit ÷ direct labour cost
