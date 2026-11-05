@@ -22,6 +22,7 @@ Also follow `reference/business-systems.md` and the SOPs in `sop/`.
 - JT = estimates, budgets, change orders, POs, progress, documents.
 - busybusy = second check on direct labour hours.
 - Job costs are recorded at actual cost, no markup. Direct labour = $30/hr wage cost.
+- Vendor/sub bills are entered in QBO with a JT cost code on every line, then pulled into JT (started Nov 2026 on 10 McNamee and 42 Cedar).
 - Each document type gets ONE entry point (see `sop/document-entry.md`). Flag any double entry.
 
 ## 1. Integration audit (run when I say "run the audit")
@@ -37,6 +38,7 @@ Check and report on each:
 7. Tax codes on invoices and bills are correct (HST 15%).
 8. Labour reaches job costs at $30/hr, and hours roughly match busybusy.
 9. Holdback/retainage is tracked on invoices and sub bills where it applies.
+10. Bills on cost-coded jobs (10 McNamee, 42 Cedar, and any job added later): every bill line has the job and a JT cost code, and the bill has pulled into JT. List any bill that's missing either.
 
 Output: a table of Item | Status (✅ / ⚠️ / ❌) | What's wrong | Fix | Who (me / Carly / Ross). Put the top 3 fixes first.
 
