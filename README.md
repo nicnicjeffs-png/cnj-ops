@@ -13,6 +13,8 @@ One source of truth. Change it here, note it in CHANGELOG.md, then re-sync any C
 ## Files
 - `instructions/jt-qbo-audit.md`: JobTread + QuickBooks setup and audit project
 - `reference/business-systems.md`: systems, source-of-truth rules, terms, rates, KPIs
+- `reference/sub-agreements.md`: Sub Agreement A/B payment stages, holdback, PO and invoicing rules
+- `reference/cost-codes.csv`: full JobTread cost code list (parent + labour/materials/sub codes)
 - `sop/weekly-cashflow-check.md`: Monday cash-flow and sync check
 - `sop/month-end-job-review.md`: monthly job-cost review
 - `sop/document-entry.md`: where each document type is entered (one entry point)
