@@ -1,6 +1,6 @@
 # CNJ Builders — Business Systems Reference
 
-Last reviewed: 2026-11-05. Update this file when any fact below changes.
+Last reviewed: 2026-11-10. Update this file when any fact below changes.
 
 ## Company
 - CNJ Builders, residential general contractor, founded 2022. Office in Rothesay, NB, serving Greater Saint John.
@@ -37,10 +37,15 @@ Last reviewed: 2026-11-05. Update this file when any fact below changes.
 ## Subcontract agreements
 - Sub Agreement A (TEMP-OPS-006): larger subcontracts
 - Sub Agreement B (TEMP-OPS-007): subs under $40K per job
+- Payment stages, holdback and PO rules: see `reference/sub-agreements.md`.
+
+## Cost codes
+- Full JobTread cost code list: `reference/cost-codes.csv` (exported 2026-11-02).
+- 32 parent codes (0000–3100), each with three sub-codes: x10 Labour, x20 Materials, x30 Subcontractor. Only sub-codes map to QBO items.
 
 ## Payroll
 - Weekly, processed Sunday.
 
 ## Tax and legal
 - HST 15% (NB).
-- NB Builders' Lien Act holdbacks apply. Confirm current holdback % and release timing with the accountant/lawyer before relying on them.
+- NB Construction Remedies Act holdbacks apply (10% statutory holdback on subs; see `reference/sub-agreements.md`). Confirm current holdback % and release timing with the accountant/lawyer before relying on them.

@@ -1,0 +1,129 @@
+Number,Name,Parent Number,Parent Name,Type,Active
+0000,Uncategorized,,,Parent,true
+0010,Uncategorized - Labour,0000,Uncategorized,Labour,true
+0020,Uncategorized - Materials,0000,Uncategorized,Materials,true
+0030,Uncategorized - Subcontractor,0000,Uncategorized,Subcontractor,true
+0100,Planning,,,Parent,true
+0110,Planning - Labour,0100,Planning,Labour,true
+0120,Planning - Materials,0100,Planning,Materials,true
+0130,Planning - Subcontractor,0100,Planning,Subcontractor,true
+0200,Demolition,,,Parent,true
+0210,Demolition - Labour,0200,Demolition,Labour,true
+0220,Demolition - Materials,0200,Demolition,Materials,true
+0230,Demolition - Subcontractor,0200,Demolition,Subcontractor,true
+0300,Excavation,,,Parent,true
+0310,Excavation - Labour,0300,Excavation,Labour,true
+0320,Excavation - Materials,0300,Excavation,Materials,true
+0330,Excavation - Subcontractor,0300,Excavation,Subcontractor,true
+0400,Utilities,,,Parent,true
+0410,Utilities - Labour,0400,Utilities,Labour,true
+0420,Utilities - Materials,0400,Utilities,Materials,true
+0430,Utilities - Subcontractor,0400,Utilities,Subcontractor,true
+0500,Foundation,,,Parent,true
+0510,Foundation - Labour,0500,Foundation,Labour,true
+0520,Foundation - Materials,0500,Foundation,Materials,true
+0530,Foundation - Subcontractor,0500,Foundation,Subcontractor,true
+0600,Framing,,,Parent,true
+0610,Framing - Labour,0600,Framing,Labour,true
+0620,Framing - Materials,0600,Framing,Materials,true
+0630,Framing - Subcontractor,0600,Framing,Subcontractor,true
+0700,Masonry,,,Parent,true
+0710,Masonry - Labour,0700,Masonry,Labour,true
+0720,Masonry - Materials,0700,Masonry,Materials,true
+0730,Masonry - Subcontractor,0700,Masonry,Subcontractor,true
+0800,Siding,,,Parent,true
+0810,Siding - Labour,0800,Siding,Labour,true
+0820,Siding - Materials,0800,Siding,Materials,true
+0830,Siding - Subcontractor,0800,Siding,Subcontractor,true
+0900,Roofing,,,Parent,true
+0910,Roofing - Labour,0900,Roofing,Labour,true
+0920,Roofing - Materials,0900,Roofing,Materials,true
+0930,Roofing - Subcontractor,0900,Roofing,Subcontractor,true
+1000,Electrical,,,Parent,true
+1010,Electrical - Labour,1000,Electrical,Labour,true
+1020,Electrical - Materials,1000,Electrical,Materials,true
+1030,Electrical - Subcontractor,1000,Electrical,Subcontractor,true
+1100,Plumbing,,,Parent,true
+1110,Plumbing - Labour,1100,Plumbing,Labour,true
+1120,Plumbing - Materials,1100,Plumbing,Materials,true
+1130,Plumbing - Subcontractor,1100,Plumbing,Subcontractor,true
+1200,Mechanical,,,Parent,true
+1210,Mechanical - Labour,1200,Mechanical,Labour,true
+1220,Mechanical - Materials,1200,Mechanical,Materials,true
+1230,Mechanical - Subcontractor,1200,Mechanical,Subcontractor,true
+1300,Insulation,,,Parent,true
+1310,Insulation - Labour,1300,Insulation,Labour,true
+1320,Insulation - Materials,1300,Insulation,Materials,true
+1330,Insulation - Subcontractor,1300,Insulation,Subcontractor,true
+1400,Drywall,,,Parent,true
+1410,Drywall - Labour,1400,Drywall,Labour,true
+1420,Drywall - Materials,1400,Drywall,Materials,true
+1430,Drywall - Subcontractor,1400,Drywall,Subcontractor,true
+1500,Doors & Windows,,,Parent,true
+1510,Doors & Windows - Labour,1500,Doors & Windows,Labour,true
+1520,Doors & Windows - Materials,1500,Doors & Windows,Materials,true
+1530,Doors & Windows - Subcontractor,1500,Doors & Windows,Subcontractor,true
+1600,Garage,,,Parent,true
+1610,Garage - Labour,1600,Garage,Labour,true
+1620,Garage - Materials,1600,Garage,Materials,true
+1630,Garage - Subcontractor,1600,Garage,Subcontractor,true
+1700,Flooring,,,Parent,true
+1710,Flooring - Labour,1700,Flooring,Labour,true
+1720,Flooring - Materials,1700,Flooring,Materials,true
+1730,Flooring - Subcontractor,1700,Flooring,Subcontractor,true
+1800,Tiling,,,Parent,true
+1810,Tiling - Labour,1800,Tiling,Labour,true
+1820,Tiling - Materials,1800,Tiling,Materials,true
+1830,Tiling - Subcontractor,1800,Tiling,Subcontractor,true
+1900,Cabinetry,,,Parent,true
+1910,Cabinetry - Labour,1900,Cabinetry,Labour,true
+1920,Cabinetry - Materials,1900,Cabinetry,Materials,true
+1930,Cabinetry - Subcontractor,1900,Cabinetry,Subcontractor,true
+2000,Countertops,,,Parent,true
+2010,Countertops - Labour,2000,Countertops,Labour,true
+2020,Countertops - Materials,2000,Countertops,Materials,true
+2030,Countertops - Subcontractor,2000,Countertops,Subcontractor,true
+2100,Trimwork,,,Parent,true
+2110,Trimwork - Labour,2100,Trimwork,Labour,true
+2120,Trimwork - Materials,2100,Trimwork,Materials,true
+2130,Trimwork - Subcontractor,2100,Trimwork,Subcontractor,true
+2200,Specialty Finishes,,,Parent,true
+2210,Specialty Finishes - Labour,2200,Specialty Finishes,Labour,true
+2220,Specialty Finishes - Materials,2200,Specialty Finishes,Materials,true
+2230,Specialty Finishes - Subcontractor,2200,Specialty Finishes,Subcontractor,true
+2300,Painting,,,Parent,true
+2310,Painting - Labour,2300,Painting,Labour,true
+2320,Painting - Materials,2300,Painting,Materials,true
+2330,Painting - Subcontractor,2300,Painting,Subcontractor,true
+2400,Appliances,,,Parent,true
+2410,Appliances - Labour,2400,Appliances,Labour,true
+2420,Appliances - Materials,2400,Appliances,Materials,true
+2430,Appliances - Subcontractor,2400,Appliances,Subcontractor,true
+2500,Decking,,,Parent,true
+2510,Decking - Labour,2500,Decking,Labour,true
+2520,Decking - Materials,2500,Decking,Materials,true
+2530,Decking - Subcontractor,2500,Decking,Subcontractor,true
+2600,Fencing,,,Parent,true
+2610,Fencing - Labour,2600,Fencing,Labour,true
+2620,Fencing - Materials,2600,Fencing,Materials,true
+2630,Fencing - Subcontractor,2600,Fencing,Subcontractor,true
+2700,Pools,,,Parent,true
+2710,Pools - Labour,2700,Pools,Labour,true
+2720,Pools - Materials,2700,Pools,Materials,true
+2730,Pools - Subcontractor,2700,Pools,Subcontractor,true
+2800,Concrete,,,Parent,true
+2810,Concrete - Labour,2800,Concrete,Labour,true
+2820,Concrete - Materials,2800,Concrete,Materials,true
+2830,Concrete - Subcontractor,2800,Concrete,Subcontractor,true
+2900,Landscaping,,,Parent,true
+2910,Landscaping - Labour,2900,Landscaping,Labour,true
+2920,Landscaping - Materials,2900,Landscaping,Materials,true
+2930,Landscaping - Subcontractor,2900,Landscaping,Subcontractor,true
+3000,Furnishings,,,Parent,true
+3010,Furnishings - Labour,3000,Furnishings,Labour,true
+3020,Furnishings - Materials,3000,Furnishings,Materials,true
+3030,Furnishings - Subcontractor,3000,Furnishings,Subcontractor,true
+3100,Miscellaneous,,,Parent,true
+3110,Miscellaneous - Labour,3100,Miscellaneous,Labour,true
+3120,Miscellaneous - Materials,3100,Miscellaneous,Materials,true
+3130,Miscellaneous - Subcontractor,3100,Miscellaneous,Subcontractor,true
